@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/midterm_result_barge_ship/static/css/main.02990d26.css",
-    "main.js": "/midterm_result_barge_ship/static/js/main.bc2f43f7.js",
+    "main.js": "/midterm_result_barge_ship/static/js/main.00dcf594.js",
     "static/js/787.28cb0dcd.chunk.js": "/midterm_result_barge_ship/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/midterm_result_barge_ship/index.html",
     "main.02990d26.css.map": "/midterm_result_barge_ship/static/css/main.02990d26.css.map",
-    "main.bc2f43f7.js.map": "/midterm_result_barge_ship/static/js/main.bc2f43f7.js.map",
+    "main.00dcf594.js.map": "/midterm_result_barge_ship/static/js/main.00dcf594.js.map",
     "787.28cb0dcd.chunk.js.map": "/midterm_result_barge_ship/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02990d26.css",
-    "static/js/main.bc2f43f7.js"
+    "static/js/main.00dcf594.js"
   ]
 }
